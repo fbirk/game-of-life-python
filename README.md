@@ -2,8 +2,8 @@
 This is a simple [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) implementation in honour of John Conway.
 
 ## Install
-`$pip install -r requirements.txt`
-`python board.py -b 5`
+> `$pip install -r requirements.txt` <br/>
+> `$python board.py -b 5`
 
 ## Usage
 The program has a CLI to choose from different pre-set boards with the most
